@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_12e268e262d5b7c66d1428803953fbf3719ae834/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_ff219852505e5c46c96092a27572526304f94f22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_1d42f7c3ad7e17022cce950d87e13e26ba073770/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_3b3c76ec3382be71202ecb29966656750e3d22e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_1d42f7c3ad7e17022cce950d87e13e26ba073770.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_97aa6fe3dac9da1ac51052d569b1e5d553cdedc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_ff219852505e5c46c96092a27572526304f94f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffab6cbe1b7662bf43926181acfc270b2672a6ee">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d95708db5fc5c449ac5e548915112d48acffacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_12e268e262d5b7c66d1428803953fbf3719ae834.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_3b3c76ec3382be71202ecb29966656750e3d22e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_97aa6fe3dac9da1ac51052d569b1e5d553cdedc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_9e2d1d9a2d8c1f5fb3fe3fa7ca7f214c92a35521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_e29ca8c498ad5dad66553a7f3a6bc66d812bbe90.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a9dfa40c7760cb727d264931484bac0a4f989ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_14d456e5c381f0879a1450bba1319a1d013278fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_d7c52890af4773dcf73ff2105fefae2e887329a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_92d3fadb41010a083d5553cece767af5989a86e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_92d444d6e4eaf3539931615867b8709df59d76e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_47fd4ed37110fd3e89479ef324ab35378b0cad48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_1dc47b7e57d5283d534de01c0a8fd11a1d1d7686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_92d3fadb41010a083d5553cece767af5989a86e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_1dc47b7e57d5283d534de01c0a8fd11a1d1d7686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_47fd4ed37110fd3e89479ef324ab35378b0cad48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_9e2d1d9a2d8c1f5fb3fe3fa7ca7f214c92a35521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_e29ca8c498ad5dad66553a7f3a6bc66d812bbe90/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_d7c52890af4773dcf73ff2105fefae2e887329a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_92d444d6e4eaf3539931615867b8709df59d76e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_a9dfa40c7760cb727d264931484bac0a4f989ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_6623568a0a8b9b8225a3a55e38c6080d4ff6b9b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_4d5dc61ea2716386a4e54ab2ef7a100a85adb865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_6623568a0a8b9b8225a3a55e38c6080d4ff6b9b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_4d5dc61ea2716386a4e54ab2ef7a100a85adb865.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac6617a24323515285e33d5a6bc8db1e6e786eb7">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54ebc19479dfac7e1629ffb2c1483e32f2b2a512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_14d456e5c381f0879a1450bba1319a1d013278fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_9be225b3ad5126f85b041811f491b92a04c1974c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Dev/5vedes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_9be225b3ad5126f85b041811f491b92a04c1974c/classes.dex" />
+    </item>
+
+</items>

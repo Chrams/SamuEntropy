@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "670122117285",
+    "firebase_url": "https://norbirontable.firebaseio.com",
+    "project_id": "norbirontable",
+    "storage_bucket": "norbirontable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670122117285:android:c88b42483f61c2db",
+        "android_client_info": {
+          "package_name": "batfai.samuentropy.brainboard7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670122117285-acqp5kkdj5q847b6d7inbghfo7gusg9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "batfai.samuentropy.brainboard7",
+            "certificate_hash": "A5EF93F2085CDA3F5EDAD7EC5D751255BE25465E"
+          }
+        },
+        {
+          "client_id": "670122117285-1qe0fenughha64ilsvq0t8vnqud2hpkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9FQKwFCPANRt2j1WB_nNidxggusYcg14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670122117285-1qe0fenughha64ilsvq0t8vnqud2hpkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

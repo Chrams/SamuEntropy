@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mark/Dev/5vedes/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_google_signin.png",
+        "source": "/home/mark/Dev/5vedes/app/src/main/res/drawable-hdpi/btn_google_signin.png"
+    },
+    {
+        "merged": "/home/mark/Dev/5vedes/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/mark/Dev/5vedes/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

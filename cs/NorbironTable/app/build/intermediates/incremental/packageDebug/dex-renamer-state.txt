@@ -1,0 +1,7 @@
+#Thu Nov 17 19:57:29 CET 2016
+base.0=/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d95708db5fc5c449ac5e548915112d48acffacb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54ebc19479dfac7e1629ffb2c1483e32f2b2a512/classes.dex
+base.1=/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54ebc19479dfac7e1629ffb2c1483e32f2b2a512
+file.0=/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d95708db5fc5c449ac5e548915112d48acffacb/classes.dex

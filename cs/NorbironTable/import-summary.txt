@@ -1,0 +1,83 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* LegalInformation.txt
+* README
+* pom.xml
+* target/
+* target/AndroidManifest.xml
+* target/NeuronTable.ap_
+* target/NeuronTable.apk
+* target/NeuronTable.jar
+* target/R.txt
+* target/classes.dex
+* target/classes/
+* target/classes/batfai/
+* target/classes/batfai/samuentropy/
+* target/classes/batfai/samuentropy/brainboard7/
+* target/classes/batfai/samuentropy/brainboard7/BuildConfig.class
+* target/classes/batfai/samuentropy/brainboard7/NeuronBox.class
+* target/classes/batfai/samuentropy/brainboard7/NeuronGameActivity.class
+* target/classes/batfai/samuentropy/brainboard7/NodeActivity$1.class
+* target/classes/batfai/samuentropy/brainboard7/NodeActivity.class
+* target/classes/batfai/samuentropy/brainboard7/NodeAdapter.class
+* target/classes/batfai/samuentropy/brainboard7/Nodes.class
+* target/classes/batfai/samuentropy/brainboard7/NorbironSurfaceView.class
+* target/classes/batfai/samuentropy/brainboard7/R$attr.class
+* target/classes/batfai/samuentropy/brainboard7/R$color.class
+* target/classes/batfai/samuentropy/brainboard7/R$drawable.class
+* target/classes/batfai/samuentropy/brainboard7/R$id.class
+* target/classes/batfai/samuentropy/brainboard7/R$layout.class
+* target/classes/batfai/samuentropy/brainboard7/R$string.class
+* target/classes/batfai/samuentropy/brainboard7/R$style.class
+* target/classes/batfai/samuentropy/brainboard7/R.class
+* target/classes/batfai/samuentropy/brainboard7/ScaleAdapter.class
+* target/classes/batfai/samuentropy/brainboard7/Splash.class
+* target/classes/batfai/samuentropy/brainboard7/SplashActivity.class
+* target/classes/batfai/samuentropy/brainboard7/Sprite.class
+* target/classes/batfai/samuentropy/brainboard7/SurfaceEvents.class
+* target/generated-sources/
+* target/generated-sources/r/
+* target/generated-sources/r/batfai/
+* target/generated-sources/r/batfai/samuentropy/
+* target/generated-sources/r/batfai/samuentropy/brainboard7/
+* target/generated-sources/r/batfai/samuentropy/brainboard7/BuildConfig.java
+* target/generated-sources/r/batfai/samuentropy/brainboard7/R.java
+* target/maven-archiver/
+* target/maven-archiver/pom.properties
+* target/maven-status/
+* target/maven-status/maven-compiler-plugin/
+* target/maven-status/maven-compiler-plugin/compile/
+* target/maven-status/maven-compiler-plugin/compile/default-compile/
+* target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+* target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
