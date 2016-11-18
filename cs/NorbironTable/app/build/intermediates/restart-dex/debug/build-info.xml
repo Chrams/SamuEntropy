@@ -5,41 +5,27 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="2960269625265"
+    timestamp="696316767367"
     token="-9148886879602558106"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="62" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="/home/mark/Dev/5vedes/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
+        location="/home/mark/Dev/5vedes/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build
-        timestamp="825114745012"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/mark/Dev/5vedes/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
-    </build>
-    <build
-        timestamp="2115790136507"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/mark/Dev/5vedes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
     <build
         timestamp="2960269625265"
         verifier="COLD_SWAP_REQUESTED" >
